@@ -3,8 +3,6 @@ spring:
      name: helloserver
    
    
-server:
-    port: 5000
     
 eureka:
   client:
